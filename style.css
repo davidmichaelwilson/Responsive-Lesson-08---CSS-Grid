@@ -1,0 +1,32 @@
+
+
+/* Edit below this line */
+
+
+.myGrid {
+  display: grid; 
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: auto;
+  gap: 10px; 
+}
+
+.myGrid div {
+  height: 50px;
+  border: solid black 1px;
+  background-color: lightgray;
+}
+
+#row1col1 {
+
+
+#row1col2 {
+  
+}
+
+#row2col1 {
+  
+}
+
+#row2col2 {
+  
+}
